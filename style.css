@@ -1,6 +1,6 @@
 @import url('style.css');
 /* Rest of CSS Code */
-.rainbow-text {
+.rainbow {
   background-image: repeating-linear-gradient(46deg, violet, indigo, blue, green, yellow, orange, red, violet);   -webkit-background-clip: text;
   color: transparent;
   background-size: 400% 400%;
